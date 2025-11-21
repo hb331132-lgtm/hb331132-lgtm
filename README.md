@@ -23,7 +23,7 @@ TODO:
   Docs: https://komarev.com/ghpvc/
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srikanth h&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=hb331132-lgtm&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 <!--
